@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan Gurkanli
 - 👀 I’m interested in data engineering, cloud services and machine learning.
-- 🌱 I’m currently learning about data structures, data pipelinesi bigquery, apache airflow and python.
+- 🌱 I’m currently learning about data structures, data pipelines, bigquery, apache airflow and python.
 - 💞️ I’m looking to collaborate on building automated ML models in production and creating data pipelines using orchestration tools.
 - 📫 You can reach me via my Slack profile: https://wd3.myworkday.com/deliveryhero/d/inst/deeplink/9d1fab8d54e001019fe037e53cf10000.htmld
 
