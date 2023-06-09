@@ -42,7 +42,7 @@ If you're interested in collaborating, please feel free to reach out!
 ---
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkangr&theme=tokyonight" />
 </p>
 
