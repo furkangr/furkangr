@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.istockphoto.com/id/1278527193/vector/vector-illustration-of-a-man-sitting-at-a-computer-a-system-administrator-in-a-data-center.jpg?s=612x612&w=0&k=20&c=w5XT-bIa4ceeHyVkBuomxW4qMWmi3sQC0XZ_9jzF_QY=" width="500px" height="200">
+    <img src="https://media.istockphoto.com/id/1278527193/vector/vector-illustration-of-a-man-sitting-at-a-computer-a-system-administrator-in-a-data-center.jpg?s=612x612&w=0&k=20&c=w5XT-bIa4ceeHyVkBuomxW4qMWmi3sQC0XZ_9jzF_QY=" width="400px">
     <h1>Hi there, I'm Furkan Gurkanli</h1>
     <h3>Data Engineer | Technophile | Lifelong Learner</h3>
 </div>
@@ -7,7 +7,7 @@
 
 ## 👀 About Me
 
-I'm a passionate technophile with an interest in data engineering and cloud services. I'm dedicated to expanding my knowledge and skills, and I love to learn about new technologies that can help drive innovation and efficiency in the world of data. 
+Specializing in Data Engineering with a focus on constructing robust, optimized data infrastructures. Proficient in leveraging Python for diverse tasks, from web scraping to data validation, and SQL on BigQuery for comprehensive data modeling and warehousing. Skillful in utilizing the Google Cloud Platform and Airflow to construct data and ML pipelines, handle streaming and batch data, with expertise in BI tools such as Looker and Tableau for setting up sustainable data sources. Commitment to delivering high-quality data underscores a dedication to fostering a data-driven culture in any professional environment.
 
 ## What I'm learning
 
@@ -15,10 +15,13 @@ Currently, I'm delving into:
 
 - Data Structures
 - Data Pipelines
-- Google Cloud Storage (GCS)
+- Google Cloud Platform (GCP)
 - Google BigQuery
 - Apache Airflow
 - Python
+- Web Scraping
+- GenAI
+- Looker/LookML
 
 I believe that continuous learning is key to personal growth and success in any field, and I am always open to new ideas and perspectives. 
 
