@@ -42,13 +42,12 @@ If you're interested in collaborating, please feel free to reach out!
 ---
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkangr&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkangr&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <a href="https://gitmemory.com/furkangr">
-    <img src="https://gitmemory.com/images/top-langs/?username=furkangr&theme=tokyonight" alt="Top Langs"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkangr&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 <p align="center">
@@ -58,6 +57,8 @@ If you're interested in collaborating, please feel free to reach out!
 <p align="center">
   <img src="https://github.com/furkangr/furkangr/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation"/>
 </p>
+
+
 
 
 
