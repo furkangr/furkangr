@@ -50,9 +50,6 @@ If you're interested in collaborating, please feel free to reach out!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkangr&theme=tokyonight" alt="Top Langs"/>
 </p>
 
-<p align="center">
-  <img src="https://cardivo.vercel.app/api?name=furkangr&description=Data%20Engineer,%20Python%20Developer,%20Learner&avatar=https://github.com/furkangr.png&cover=https://coverfiles.alphacoders.com/123/123388.jpg&theme=React&fontSize=100px" alt="Octo Profile"/>
-</p>
 
 ---
 
