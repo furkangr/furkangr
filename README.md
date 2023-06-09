@@ -1,20 +1,14 @@
 <div align="center">
-
-# 👋 Hi there, I'm Furkan Gurkanli 
-
-</div>
-
-<div align="center">
-
-![Profile views](https://gpvc.arturio.dev/furkangr)
-
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    <h1>Hi there, I'm Furkan Gurkanli</h1>
+    <h3>Data Engineer | Technophile | Lifelong Learner</h3>
 </div>
 
 ## 👀 About Me
 
 I'm a passionate technophile with an interest in data engineering and cloud services. I'm dedicated to expanding my knowledge and skills, and I love to learn about new technologies that can help drive innovation and efficiency in the world of data. 
 
-## 🌱 What I'm learning
+## What I'm learning
 
 Currently, I'm delving into:
 
@@ -27,7 +21,7 @@ Currently, I'm delving into:
 
 I believe that continuous learning is key to personal growth and success in any field, and I am always open to new ideas and perspectives. 
 
-## 💞️ Collaboration
+## Collaboration
 
 I'm looking for collaborators to help me in building automated ML models in production and creating data pipelines using orchestration tools. I'm excited to learn from others and contribute my skills and ideas to team projects.
 
