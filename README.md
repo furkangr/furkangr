@@ -42,17 +42,23 @@ If you're interested in collaborating, please feel free to reach out!
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkangr&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkangr&theme=tokyonight" />
+  <a href="https://gitmemory.com/furkangr">
+    <img src="https://gitmemory.com/images/top-langs/?username=furkangr&theme=tokyonight" alt="Top Langs"/>
+  </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkangr&theme=onedark&column=7" /></a>
+  <img src="https://cardivo.vercel.app/api?name=furkangr&description=Data%20Engineer,%20Python%20Developer,%20Learner&avatar=https://github.com/furkangr.png&cover=https://coverfiles.alphacoders.com/123/123388.jpg&theme=React&fontSize=100px" alt="Octo Profile"/>
 </p>
+
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=furkangr" />
+  <img src="https://github.com/furkangr/furkangr/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation"/>
 </p>
+
 
 
 
