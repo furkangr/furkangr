@@ -1,8 +1,9 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    <img src="https://media.istockphoto.com/id/1278527193/vector/vector-illustration-of-a-man-sitting-at-a-computer-a-system-administrator-in-a-data-center.jpg?s=612x612&w=0&k=20&c=w5XT-bIa4ceeHyVkBuomxW4qMWmi3sQC0XZ_9jzF_QY=" width="400px">
     <h1>Hi there, I'm Furkan Gurkanli</h1>
     <h3>Data Engineer | Technophile | Lifelong Learner</h3>
 </div>
+
 
 ## 👀 About Me
 
