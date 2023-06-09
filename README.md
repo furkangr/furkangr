@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_GITHUB_USERNAME])
+![Profile views](https://gpvc.arturio.dev/furkangr)
 
 </div>
 
@@ -44,8 +44,8 @@ If you're interested in collaborating, please feel free to reach out!
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=furkangr&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=furkangr&theme=tokyonight" />
 </p>
 
 ---
