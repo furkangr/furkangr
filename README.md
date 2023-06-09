@@ -37,7 +37,7 @@ If you're interested in collaborating, please feel free to reach out!
 
 ## 📫 How to reach me
 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]) [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>](https://github.com/[furkangr)
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/fgurkanli/) [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>](https://github.com/furkangr)
 
 </div>
 
@@ -52,8 +52,6 @@ If you're interested in collaborating, please feel free to reach out!
 
 > Furkan Gurkanli © 2023
 
-
-- 📫 You can reach me via my linkedin [profile](https://www.linkedin.com/in/fgurkanli/) or through my [e-mail.](mailto:furkan.gurkanli@yemeksepeti.com)
 
 
 <!---
