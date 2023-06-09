@@ -51,8 +51,9 @@ If you're interested in collaborating, please feel free to reach out!
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkangr&theme=onedark&column=7" /></a>
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=furkangr&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=furkangr" />
 </p>
+
 
 
 ---
