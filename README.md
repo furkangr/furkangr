@@ -7,7 +7,7 @@
 
 ## 👀 About Me
 
-Specializing in Data Engineering with a focus on constructing robust, optimized data infrastructures. Proficient in leveraging Python for diverse tasks, from web scraping to data validation, and SQL on BigQuery for comprehensive data modeling and warehousing. Skillful in utilizing the Google Cloud Platform and Airflow to construct data and ML pipelines, handle streaming and batch data, with expertise in BI tools such as Looker and Tableau for setting up sustainable data sources. Commitment to delivering high-quality data underscores a dedication to fostering a data-driven culture in any professional environment.
+Data Engineer specializing in creating robust, optimized data infrastructures. Leverages Google Cloud Platform in tandem with Airflow for constructing data and ML pipelines, and processing both stream and batch data. Excel at utilizing BI tools like Looker and Tableau to establish scalable, sustainable data sources for self-service reporting. Committed to delivering structured, clean, and high-quality data, enables data professionals to maximize their potentials. A dependable team player, known for problem-solving abilities and fostering a data-driven culture in the workplace.
 
 ## What I'm learning
 
