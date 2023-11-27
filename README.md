@@ -15,6 +15,7 @@ Currently, I'm delving into:
 
 - Data Structures
 - Data Pipelines
+- Object Oriented Programming
 - Google Cloud Platform (GCP)
 - Google BigQuery
 - Apache Airflow
@@ -22,6 +23,7 @@ Currently, I'm delving into:
 - Web Scraping
 - GenAI
 - Looker/LookML
+- Containerization (Docker, GKE & Terraform)
 
 I believe that continuous learning is key to personal growth and success in any field, and I am always open to new ideas and perspectives. 
 
