@@ -3,9 +3,9 @@
 </div>
 
 
-## 👀 About Me
+## About Me
 
-Data Engineer specializing in creating robust, optimized data infrastructures. Leverages Google Cloud Platform in tandem with Airflow for constructing data and ML pipelines, and processing both stream and batch data. Excel at utilizing BI tools like Looker and Tableau to establish scalable, sustainable data sources for self-service reporting. Committed to delivering structured, clean, and high-quality data, enables data professionals to maximize their potentials. A dependable team player, known for problem-solving abilities and fostering a data-driven culture in the workplace.
+Aspiring Data Engineer
 
 ## What I'm learning
 
