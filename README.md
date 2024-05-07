@@ -11,26 +11,15 @@ Aspiring Data Engineer
 
 Currently, I'm delving into:
 
-- Data Structures
-- Data Pipelines
-- Object Oriented Programming
-- Google Cloud Platform (GCP)
-- Google BigQuery
-- Apache Airflow
 - Python
-- Web Scraping
-- GenAI
-- Looker/LookML
-- Containerization (Docker, GKE & Terraform)
+- SQL
+- Apache Spark(Pypark)
+- Apache Airflow
+- DSA in Python
+- DWH Toolkit / Data Modeling
+- Databricks
 
-I believe that continuous learning is key to personal growth and success in any field, and I am always open to new ideas and perspectives. 
-
-## Collaboration
-
-I'm looking for collaborators to help me in building automated ML models in production and creating data pipelines using orchestration tools. I'm excited to learn from others and contribute my skills and ideas to team projects.
-
-If you're interested in collaborating, please feel free to reach out!
-
+  
 <div align="center">
 
 ## 📫 How to reach me
