@@ -6,7 +6,8 @@
 
 Aspiring Data Engineer building end to end data pipelines leveraging python in tandem with Apache Airflow & GCP. 
 I've been looking for ways to broaden my area of expertise and currently delving into making use of Apache Spark for big data processing.
-Moreover, I'm GCP certified(Professional Data Engineer Cert). Recently, looking ot get certified for Databricks Spark Developer path, and keep advancing my skills in DSA.
+Moreover, I'm GCP certified(Professional Data Engineer Cert). Recently, looking to get certified for Databricks Spark Developer path, and keep advancing my skills in DSA.
+
 ## What I'm learning
 
 Currently, I'm delving into:
